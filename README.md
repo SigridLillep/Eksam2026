@@ -44,6 +44,7 @@ Playbook teostab järgmised tegevused:
 | Fail | Kirjeldus |
 |--------|------------|
 | vaultwarden.conf | Apache Reverse Proxy konfiguratsioon Vaultwardeni teenusele |
+| wordpress-ssl.conf | Apache Reverse Proxy konfiguratsioon Vasemba veebilehele |
 
 ## Projekti eesmärk
 
